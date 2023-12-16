@@ -15,15 +15,15 @@ Remoto
 Aqui temos uma aplicação simples, com alguns produtos de laboratório e mostramos
 por categoria.
 
-![Print da aplicação](https://github.com/GabrielSilva13/checkmate/blob/master/public/desktop.png)
+![Print da aplicação](https://github.com/GabrielSilva13/teste-linklab/blob/master/public/desktop.png)
 
 ## Capturas de Tela
 
 Aqui nós temos a aplicação completa em sua versão desktop
-![Print da aplicação](https://github.com/GabrielSilva13/checkmate/blob/master/public/desktop.png)
+![Print da aplicação](https://github.com/GabrielSilva13/teste-linklab/blob/master/public/desktop.png)
 
 Aqui nós temos a versão mobile da mesma
-![Print da aplicação](https://github.com/GabrielSilva13/checkmate/blob/master/public/mobile.png)
+![Print da aplicação](https://github.com/GabrielSilva13/teste-linklab/blob/master/public/mobile.png)
 
 
 
@@ -40,7 +40,7 @@ npm run dev
 ```
 
 Eu uso essa configuração para evitar erros de lintin, caso queira ajustar no seu projeto também
-![Print de configuração](https://github.com/GabrielSilva13/checkmate/blob/master/public/print-config.png)
+![Print de configuração](https://github.com/GabrielSilva13/teste-linklab/blob/master/public/print-config.png)
 
 ### Pré-requisitos
 
