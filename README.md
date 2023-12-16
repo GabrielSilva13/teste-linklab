@@ -23,6 +23,8 @@ Aqui nós temos a aplicação completa em sua versão desktop
 ![Print da aplicação](https://github.com/GabrielSilva13/teste-linklab/blob/master/public/desktop.png)
 
 Aqui nós temos a versão mobile da mesma
+
+
 ![Print da aplicação](https://github.com/GabrielSilva13/teste-linklab/blob/master/public/mobile.png)
 
 
